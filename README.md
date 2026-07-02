@@ -28,6 +28,6 @@
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/mtalha77/elevenlabs-outbound-endpoint.git
+   git clone https://github.com/gustavo05471809/elevenlabs-outbound-endpoint
    cd rank-orbit-ai-auto-dialer
    ```
